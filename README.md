@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash00212/array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/yash00212/array/tree/master/1122-relative-sort-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yash00212/array/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Two Pointers
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/yash00212/array/tree/master/0242-valid-anagram) |
+| [1122-relative-sort-array](https://github.com/yash00212/array/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/yash00212/array/tree/master/0242-valid-anagram) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/yash00212/array/tree/master/1122-relative-sort-array) |
 ## Math
 |  |
 | ------- |
@@ -39,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yash00212/array/tree/master/1232-check-if-it-is-a-straight-line) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/yash00212/array/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
