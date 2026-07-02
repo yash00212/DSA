@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yash00212/array/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/yash00212/array/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/yash00212/array/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/yash00212/array/tree/master/1122-relative-sort-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yash00212/array/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/yash00212/array/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yash00212/array/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Greedy
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/yash00212/array/tree/master/0136-single-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
