@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/yash00212/array/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
+| [0441-arranging-coins](https://github.com/yash00212/array/tree/master/0441-arranging-coins) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yash00212/array/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Greedy
@@ -82,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash00212/array/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0441-arranging-coins](https://github.com/yash00212/array/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
