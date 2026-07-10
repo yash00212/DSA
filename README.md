@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/yash00212/array/tree/master/0507-perfect-number) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yash00212/array/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2235-add-two-integers](https://github.com/yash00212/array/tree/master/2235-add-two-integers) |
 ## Greedy
 |  |
 | ------- |
