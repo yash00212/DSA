@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yash00212/array/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/yash00212/array/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/yash00212/array/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash00212/array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash00212/array/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -98,10 +99,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yash00212/array/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash00212/array/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0441-arranging-coins](https://github.com/yash00212/array/tree/master/0441-arranging-coins) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/yash00212/array/tree/master/0412-fizz-buzz) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yash00212/array/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
