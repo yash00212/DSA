@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash00212/array/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
+| [1089-duplicate-zeros](https://github.com/yash00212/array/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/yash00212/array/tree/master/1122-relative-sort-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yash00212/array/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yash00212/array/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yash00212/array/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/yash00212/array/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yash00212/array/tree/master/0345-reverse-vowels-of-a-string) |
+| [1089-duplicate-zeros](https://github.com/yash00212/array/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
