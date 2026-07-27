@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/yash00212/array/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/yash00212/array/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/yash00212/array/tree/master/2652-sum-multiples) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yash00212/array/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash00212/array/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/yash00212/array/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
