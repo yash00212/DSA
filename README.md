@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/yash00212/array/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/yash00212/array/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
+| [0343-integer-break](https://github.com/yash00212/array/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/yash00212/array/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/yash00212/array/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/yash00212/array/tree/master/0492-construct-the-rectangle) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/yash00212/array/tree/master/0343-integer-break) |
 | [1025-divisor-game](https://github.com/yash00212/array/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
