@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash00212/array/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/yash00212/array/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/yash00212/array/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/yash00212/array/tree/master/1122-relative-sort-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yash00212/array/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yash00212/array/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash00212/array/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
+| [1051-height-checker](https://github.com/yash00212/array/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/yash00212/array/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yash00212/array/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash00212/array/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/yash00212/array/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/yash00212/array/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash00212/array/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
