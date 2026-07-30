@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/yash00212/array/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yash00212/array/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/yash00212/array/tree/master/1518-water-bottles) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/yash00212/array/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash00212/array/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/yash00212/array/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/yash00212/array/tree/master/2469-convert-the-temperature) |
