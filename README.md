@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yash00212/array/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/yash00212/array/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
+| [0414-third-maximum-number](https://github.com/yash00212/array/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash00212/array/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yash00212/array/tree/master/0704-binary-search) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yash00212/array/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/yash00212/array/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/yash00212/array/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/yash00212/array/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash00212/array/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/yash00212/array/tree/master/1051-height-checker) |
