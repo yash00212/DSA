@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/yash00212/array/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/yash00212/array/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/yash00212/array/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/yash00212/array/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/yash00212/array/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash00212/array/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash00212/array/tree/master/3658-gcd-of-odd-and-even-sums) |
