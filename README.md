@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/yash00212/array/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash00212/array/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yash00212/array/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/yash00212/array/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/yash00212/array/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/yash00212/array/tree/master/1089-duplicate-zeros) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/yash00212/array/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/yash00212/array/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash00212/array/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/yash00212/array/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/yash00212/array/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yash00212/array/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/yash00212/array/tree/master/0343-integer-break) |
+| [0877-stone-game](https://github.com/yash00212/array/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/yash00212/array/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -180,5 +183,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/yash00212/array/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/yash00212/array/tree/master/1025-divisor-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/yash00212/array/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/yash00212/array/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
