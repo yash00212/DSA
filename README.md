@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/yash00212/array/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash00212/array/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash00212/array/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3908-valid-digit-number](https://github.com/yash00212/array/tree/master/3908-valid-digit-number) |
 ## Greedy
 |  |
 | ------- |
