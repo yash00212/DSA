@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yash00212/array/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/yash00212/array/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash00212/array/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yash00212/array/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash00212/array/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3908-valid-digit-number](https://github.com/yash00212/array/tree/master/3908-valid-digit-number) |
 ## Greedy
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/yash00212/array/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yash00212/array/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
