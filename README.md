@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/yash00212/array/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash00212/array/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yash00212/array/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/yash00212/array/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yash00212/array/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/yash00212/array/tree/master/1051-height-checker) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash00212/array/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0441-arranging-coins](https://github.com/yash00212/array/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/yash00212/array/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/yash00212/array/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yash00212/array/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Simulation
 |  |
