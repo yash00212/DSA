@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yash00212/array/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/yash00212/array/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yash00212/array/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/yash00212/array/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/yash00212/array/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/yash00212/array/tree/master/0414-third-maximum-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/yash00212/array/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/yash00212/array/tree/master/0343-integer-break) |
 | [0877-stone-game](https://github.com/yash00212/array/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/yash00212/array/tree/master/1025-divisor-game) |
