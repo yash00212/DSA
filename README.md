@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/yash00212/array/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/yash00212/array/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/yash00212/array/tree/master/2652-sum-multiples) |
+| [2739-total-distance-traveled](https://github.com/yash00212/array/tree/master/2739-total-distance-traveled) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash00212/array/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yash00212/array/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/yash00212/array/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/yash00212/array/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/yash00212/array/tree/master/1518-water-bottles) |
+| [2739-total-distance-traveled](https://github.com/yash00212/array/tree/master/2739-total-distance-traveled) |
 ## Divide and Conquer
 |  |
 | ------- |
