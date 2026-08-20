@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash00212/array/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/yash00212/array/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash00212/array/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yash00212/array/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3866-first-unique-even-element](https://github.com/yash00212/array/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yash00212/array/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/yash00212/array/tree/master/1518-water-bottles) |
 | [2739-total-distance-traveled](https://github.com/yash00212/array/tree/master/2739-total-distance-traveled) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/yash00212/array/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
