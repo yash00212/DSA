@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/yash00212/array/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/yash00212/array/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/yash00212/array/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0506-relative-ranks](https://github.com/yash00212/array/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash00212/array/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yash00212/array/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yash00212/array/tree/master/0875-koko-eating-bananas) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yash00212/array/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/yash00212/array/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/yash00212/array/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/yash00212/array/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash00212/array/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/yash00212/array/tree/master/1051-height-checker) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/yash00212/array/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yash00212/array/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/yash00212/array/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
