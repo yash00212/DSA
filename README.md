@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yash00212/array/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash00212/array/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash00212/array/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/yash00212/array/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/yash00212/array/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/yash00212/array/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/yash00212/array/tree/master/0088-merge-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yash00212/array/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/yash00212/array/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yash00212/array/tree/master/0055-jump-game) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash00212/array/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/yash00212/array/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yash00212/array/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/yash00212/array/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/yash00212/array/tree/master/0343-integer-break) |
