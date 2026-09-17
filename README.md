@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/yash00212/array/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yash00212/array/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/yash00212/array/tree/master/0896-monotonic-array) |
+| [0942-di-string-match](https://github.com/yash00212/DSA/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/yash00212/array/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/yash00212/array/tree/master/1051-height-checker) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yash00212/array/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yash00212/array/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/yash00212/array/tree/master/0392-is-subsequence) |
+| [0942-di-string-match](https://github.com/yash00212/DSA/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/yash00212/array/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/yash00212/array/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yash00212/array/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/yash00212/array/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/yash00212/array/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/yash00212/array/tree/master/0796-rotate-string) |
+| [0942-di-string-match](https://github.com/yash00212/DSA/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/yash00212/array/tree/master/1768-merge-strings-alternately) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash00212/array/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash00212/array/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yash00212/array/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/yash00212/array/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yash00212/array/tree/master/0055-jump-game) |
+| [0942-di-string-match](https://github.com/yash00212/DSA/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yash00212/array/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Geometry
