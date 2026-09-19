@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yash00212/array/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yash00212/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/yash00212/array/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/yash00212/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yash00212/array/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yash00212/array/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/yash00212/array/tree/master/0152-maximum-product-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yash00212/array/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/yash00212/array/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/yash00212/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/yash00212/array/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/yash00212/array/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/yash00212/array/tree/master/0387-first-unique-character-in-a-string) |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/yash00212/DSA/tree/master/0056-merge-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/yash00212/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
