@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/yash00212/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash00212/array/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/yash00212/array/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/yash00212/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/yash00212/array/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/yash00212/array/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/yash00212/array/tree/master/0896-monotonic-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/yash00212/array/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/yash00212/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yash00212/array/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/yash00212/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0976-largest-perimeter-triangle](https://github.com/yash00212/array/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/yash00212/array/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/yash00212/array/tree/master/1051-height-checker) |
