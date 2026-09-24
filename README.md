@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/yash00212/array/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash00212/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yash00212/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yash00212/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yash00212/array/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yash00212/array/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash00212/array/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yash00212/array/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yash00212/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yash00212/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yash00212/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/yash00212/array/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash00212/array/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/yash00212/array/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/yash00212/array/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/yash00212/array/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yash00212/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Simulation
 |  |
 | ------- |
