@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yash00212/array/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/yash00212/array/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yash00212/DSA/tree/master/0056-merge-intervals) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/yash00212/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yash00212/array/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/yash00212/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/yash00212/array/tree/master/0136-single-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash00212/array/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yash00212/array/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/yash00212/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yash00212/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/yash00212/array/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/yash00212/array/tree/master/0704-binary-search) |
